@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'Blogging site by Omkar Sinare',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://journalbook.vercel.app',
+  siteUrl: 'https://journalbook.org',
   siteRepo: 'https://github.com/SatvikG7/JournalBook',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.jpeg',
@@ -27,7 +27,7 @@ const siteMetadata = {
       umamiWebsiteId: process.env.NEXT_UMAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
     },
     // plausibleAnalytics: {
-    //   plausibleDataDomain: '', // e.g. journalbook.vercel.app
+    //   plausibleDataDomain: '', // e.g. journalbook.org
     // },
     // simpleAnalytics: {},
     // posthogAnalytics: {
