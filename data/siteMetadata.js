@@ -1,17 +1,17 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Journal Book',
-  author: 'Omkar Sinare',
+  author: 'Omkar S',
   headerTitle: 'Journal Book',
-  description: 'Blogging site by Omkar Sinare',
+  description: 'Blogging site by Omkar S',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://journalbook.org',
-  siteRepo: 'https://github.com/SatvikG7/JournalBook',
+  siteRepo: 'https://github.com/JournalBook/JournalBook',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.jpeg',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'jrnl.book@gmail.com',
+  email: 'hello@journalbook.org',
   github: 'https://github.com/JournalBook/JournalBook',
   twitter: 'https://twitter.com/JBInsights',
   //   facebook: 'https://facebook.com',
