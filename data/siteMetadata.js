@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'Omkar S',
   developer: 'SatvikG7',
   headerTitle: 'Journal Book',
-  description: 'Blogging site by Omkar S',
+  description: 'Embark on a captivating journey through diverse knowledge',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://journalbook.org',
