@@ -19,6 +19,7 @@ const Header = () => {
                 alt="Logo"
                 width={150}
                 height={150}
+                className="dark:invert"
               />
             </div>
             {/* {typeof siteMetadata.headerTitle === 'string' ? (

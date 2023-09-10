@@ -1,17 +1,19 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Journal Book',
-  author: 'Omkar Sinare',
+  author: 'Omkar S',
+  developer: 'SatvikG7',
   headerTitle: 'Journal Book',
-  description: 'Blogging site by Omkar Sinare',
+  description: 'Embark on a captivating journey through diverse knowledge ',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://journalbook.vercel.app',
-  siteRepo: 'https://github.com/SatvikG7/JournalBook',
+  siteUrl: 'https://journalbook.org',
+  siteRepo: 'https://github.com/JournalBook/JournalBook',
   siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/twitter-card.jpeg',
+  socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'jrnl.book@gmail.com',
+  email: 'hello@journalbook.org',
+  developerEmail: 'developer@journalbook.org',
   github: 'https://github.com/JournalBook/JournalBook',
   twitter: 'https://twitter.com/JBInsights',
   //   facebook: 'https://facebook.com',
@@ -27,7 +29,7 @@ const siteMetadata = {
       umamiWebsiteId: process.env.NEXT_UMAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
     },
     // plausibleAnalytics: {
-    //   plausibleDataDomain: '', // e.g. journalbook.vercel.app
+    //   plausibleDataDomain: '', // e.g. journalbook.org
     // },
     // simpleAnalytics: {},
     // posthogAnalytics: {
